@@ -1,0 +1,16 @@
+[2026-10-31 14:25:47] local.ERROR: Trait "Spatie\Permission\Traits\HasRoles" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Spatie\\Permission\\Traits\\HasRoles\" not found at C:/Users/WADE GADGETS/Desktop/student-management/app/Models/User.php:13)
+[stacktrace]
+#0 {main}
+"} 
+[2026-10-31 14:26:46] local.ERROR: Trait "Spatie\Permission\Traits\HasRoles" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Spatie\\Permission\\Traits\\HasRoles\" not found at C:/Users/WADE GADGETS/Desktop/student-management/app/Models/User.php:13)
+[stacktrace]
+#0 {main}
+"} 
+[2026-10-31 14:27:16] local.ERROR: Trait "Spatie\Permission\Traits\HasRoles" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Spatie\\Permission\\Traits\\HasRoles\" not found at C:/Users/WADE GADGETS/Desktop/student-management/app/Models/User.php:13)
+[stacktrace]
+#0 {main}
+"} 
+[2026-10-31 14:28:29] local.ERROR: Trait "Spatie\Permission\Traits\HasRoles" not found {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Trait \"Spatie\\Permission\\Traits\\HasRoles\" not found at C:/Users/WADE GADGETS/Desktop/student-management/app/Models/User.php:13)
+[stacktrace]
+#0 {main}
+"} 

@@ -1,0 +1,12 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+/vendor/
+
+# Generated Laravel files
+/storage/framework/views/
+/storage/logs/*.log
+/bootstrap/cache/*.php
